@@ -1,0 +1,65 @@
+{
+  "clients": [
+    {
+      "name": "Client A",
+      "jobTitles": [
+        {
+          "name": "Software Engineer",
+          "reqId": "REQ123",
+          "talents": [
+            {
+              "name": "Jane D. Smith"
+            },
+            {
+              "name": "Jose A. Zamarripa"
+            },
+            {
+              "name": "Julio C. Sauer"
+            }
+          ]
+        },
+        {
+          "name": "Data Analyst",
+          "reqId": "REQ124",
+          "talents": [
+            {
+              "name": "Carlos T. Lavigne"
+            },
+            {
+              "name": "Michael I. Flournoy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Client B",
+      "jobTitles": [
+        {
+          "name": "Product Manager",
+          "reqId": "REQ125",
+          "talents": [
+            {
+              "name": "Gerald M. Stanley"
+            },
+            {
+              "name": "Jason D. Devera"
+            }
+          ]
+        },
+        {
+          "name": "UX Designer",
+          "reqId": "REQ126",
+          "talents": [
+            {
+              "name": "Jesse R. Hearn"
+            },
+            {
+              "name": "Alfred J. Streetman"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
